@@ -1,13 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: adnan
- * Date: 9/22/17
- * Time: 4:28 PM
- */
 
 require (__DIR__ . '/../vendor/autoload.php');
-
 
 class YiinkerCommand extends CConsoleCommand
 {
