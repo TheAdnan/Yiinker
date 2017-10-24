@@ -1,6 +1,5 @@
-
 {
-	 "require": {
-        	"psy/psysh": "0.7.*|0.8.*"
-	}
+    "require": {
+        "psy/psysh": "0.7.*|0.8.*"
+    }
 }
