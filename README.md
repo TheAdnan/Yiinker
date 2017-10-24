@@ -8,7 +8,7 @@ In the `protected` folder, add this to your composer.json file (if there isn't o
 `
 "require": {
        	"psy/psysh": "0.7.*|0.8.*"
-	}
+}
 `
 
 Next, add the YiinkerCommand.php file to `protected/commands` folder.
@@ -16,6 +16,3 @@ Next, add the YiinkerCommand.php file to `protected/commands` folder.
 You can now run it in your terminal with:
 
 `php yiic yiinker`
-
-## License: MIT License
-## URL: https://opensource.org/licenses/mit-license.html
