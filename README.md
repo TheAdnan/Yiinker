@@ -1,2 +1,2 @@
 ## Yiinker
-*A console debugger inspired by laravel's artisan Tinker*
+*A REPL for Yii framework inspired by laravel's artisan Tinker*
