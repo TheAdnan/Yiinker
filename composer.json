@@ -1,20 +1,6 @@
+
 {
-    "name": "TheAdnan/Yiinker",
-    "description": "REPL for the Yii framework.",
-    "keywords": ["yiinker", "repl", "psysh", "yii"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Adnan Kičin",
-            "email": "adnankicin92@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.5.9",
-        "psy/psysh": "0.7.*|0.8.*",
-        "symfony/var-dumper": "~3.0"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "~4.0|~5.0"
-    }
+	 "require": {
+        	"psy/psysh": "0.7.*|0.8.*"
+	}
 }
