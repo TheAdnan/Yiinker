@@ -5,10 +5,11 @@
 
 In the `protected` folder, add this to your composer.json file (if there isn't one, create an empty composer.json):
 
-`"require": { `
-      `      "psy/psysh": "0.7.*|0.8.*"`
-`}
-`
+``` json
+"require": { 
+            "psy/psysh": "0.7.*|0.8.*"
+}
+```
 
 Or simply run this command `composer require psy/psysh:@stable`.
 Next, add the YiinkerCommand.php file to `protected/commands` folder.
