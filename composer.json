@@ -1,6 +1,10 @@
-
 {
-	 "require": {
-        	"psy/psysh": "0.7.*|0.8.*"
-	}
+    "name": "theadnan/yiinker",
+    "description": "A REPL for the Yii framework inspired by Laravel's Artisan Tinker.",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "require": {
+        "psy/psysh": "0.7.* || 0.8.*"
+    }
 }
