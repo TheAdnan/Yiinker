@@ -2,6 +2,8 @@
 
 *A REPL for the Yii framework inspired by [Laravel]'s Artisan Tinker.*
 
+A Read–Eval–Print Loop (REPL), also known as an interactive toplevel or language shell, is a simple, interactive computer programming environment that takes single user inputs (i.e. single expressions), evaluates them, and returns the result to the user; a program written in a REPL environment is executed piecewise
+
 ### Installation and usage
 
 In the `protected` folder, add this to your composer.json file (if there isn't one, create an empty composer.json):
